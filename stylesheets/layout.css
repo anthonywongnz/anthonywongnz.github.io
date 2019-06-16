@@ -72,6 +72,8 @@ section>h1 {
 
 article {
 	margin-bottom: 20px;
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 article>header>h1 {
